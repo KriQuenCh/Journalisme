@@ -4,8 +4,3 @@ Repository fait dans le cadre du cours d'applications de la data-science en jour
 Travail effectué en groupe et encore en cours.
 
 Cours de l'Université Paris-Dauphine.
-# Journalisme
-# Journalisme
-# Journalisme
-# Journalisme
-# Journalisme
